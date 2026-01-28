@@ -1,9 +1,9 @@
 
-# Hello i am Na Tang
+# Hello, I am Na Tang
 
-- 👋 Hi, I’m Donna.
+- 👋 Hi, I’m Na Tang.
 - 👀 I’m interested in code.
-- 🌱 I’m currently learning Computer Science major.
+- 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking for an internship.
 - 📫 
 
